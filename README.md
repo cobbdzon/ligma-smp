@@ -6,8 +6,9 @@ The great Ligma SMP. A dedicated modded Fabric server with custom worldgen and w
 - The Ligma Modpack (see below)
 
 ## INSTALLING THE LIGMA MODPACK
-- Download the [tar.xz file]()
-- Extract the contents into the `/mods` folder of your minecraft profile. The `.jar` files must be an immidiate child of the `/mods` folder or else Minecraft won't load them.
+- Download the [tar.xz file](https://drive.google.com/file/d/1fdKNwG35oriEzn0wgeep2OI-q7kUexH8/view?usp=sharing)
+- Extract the contents of `ligma-modpack/mods` into the `.minecraft/mods` folder of your minecraft profile. The `.jar` files must be an immidiate child of the `.minecraft/mods` folder or else Minecraft won't load them.
+- Extract and overwrite the contents of `ligma-modpack/config` into the `.minecraft/config`. You must replace the conflicting files or the modpack update checker won't properly function.
 - You can now join through the IP below.
 
 ## SERVER IP
