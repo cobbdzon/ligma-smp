@@ -14,3 +14,4 @@
     - some sticks and coal
 - You can now set your own nicknames by `/nickname <name> OR /nick <name>`
 - Installed better fog client-side (disable in mods if you encounter issues, its named "fog looks better now")
+- Fixed everlasting torches spawning in YUNG's structures, please destroy any everlasting torch found in already generated structures.
