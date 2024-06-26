@@ -4,12 +4,15 @@
     "versions": [
         {
             "id": "0.1.0",
-            "releasedAt": 209384093820,
-            "promotions": {
-                "downloads": {
-                    "generic": "https://drive.google.com/file/d/1fdKNwG35oriEzn0wgeep2OI-q7kUexH8/view?usp=sharing"
-                }
-            }
+            "releasedAt": 1719201600000
+        },
+        {
+            "id": "1.0.0",
+            "releasedAt": 1719288000000
+        },
+        {
+            "id": "1.1.0",
+            "releasedAt": 1719411300000
         }
     ]
   }

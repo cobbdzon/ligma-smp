@@ -1,0 +1,9 @@
+# ligma 1.1 update
+- torch crafted decreased from 4 to 2 (exploit found by Guilmar)
+- small ships mod added
+- better minecarts mod added
+- starter kits will now be given to first time joining players, which includes:
+    - wooden dagger
+    - some sticks and coal
+- you can now set your own nicknames (/nickname <name> OR /nick <name>)
+- installed better fog client side (disable in mods if you encounter issues, its named "fog looks better now")
