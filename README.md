@@ -13,5 +13,8 @@ The great Ligma SMP. A dedicated modded Fabric server with custom worldgen and w
 ## SERVER IP
 IP: **147.185.221.19:37608**
 
+## CHANGELOG
+To see what's changed, visit the [changelog](./CHANGELOG.md).
+
 ## MOD LIST
 For more info about the mods, you can see the full list [here](https://docs.google.com/document/d/1k7lCt0VJhUAlTuwQN-EK4M0sXlq2Xofxfq4cFUDVWDI/edit?usp=sharing).
