@@ -34,3 +34,9 @@
 - Wearing leather boots will now prevent trampling on farmland
 - Banners can now be displayed as flags on pole-like blocks (fence, etc)
 - Other client-sided minimal visual improvement mods added
+
+# 1.2.1
+- Some misc. optimizations
+- Added Doggo Mod Overhaul
+- Added Enhanced Cats
+- The server will now pause as soon as all connected players have the game simultaenously paused.
