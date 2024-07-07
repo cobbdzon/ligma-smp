@@ -35,7 +35,7 @@
 - Banners can now be displayed as flags on pole-like blocks (fence, etc)
 - Other client-sided minimal visual improvement mods added
 
-# 1.2.1
+## 1.2.1
 - Some misc. optimizations
 - Added Doggo Mod Overhaul
 - Added Enhanced Cats
