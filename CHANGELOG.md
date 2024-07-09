@@ -40,3 +40,13 @@
 - Added Doggo Mod Overhaul
 - Added Enhanced Cats
 - The server will now pause as soon as all connected players have the game simultaenously paused.
+
+## 1.2.2
+- Dynamic Lighting mod has been swapped with a client-sided version;
+- Consequently, lit lanterns put in your belt now light up the surrounding area thus clearing up your offhand
+- Boats have recieved the following QOL mods:
+  - Better Boat Movement, which allows you to make the boat jump, useful when hopping on ice rivers
+  - This Boat is MINE, which allows you to dismount mobs riding boats with Crouch + Click
+- Horses have received the following QOL mods:
+  - [Horse Buff](https://modrinth.com/mod/horsebuff)
+  - Kaffee's Dual Ride, which allows you to backride in a horse
