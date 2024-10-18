@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "spDefaultProfile": {
+    "name": "Singleplayer Default",
+    "addresses": [],
+    "addToHistory": false,
+    "showHudMessage": false,
+    "commandKeys": []
+  },
+  "mpDefaultProfile": {
+    "name": "Multiplayer Default",
+    "addresses": [],
+    "addToHistory": false,
+    "showHudMessage": false,
+    "commandKeys": [
+      {
+        "conflictStrategy": "ZERO",
+        "sendStrategy": "ZERO",
+        "key": {
+          "name": "key.keyboard.keypad.add",
+          "type": "KEYSYM",
+          "value": 334
+        },
+        "limitKey": {
+          "name": "key.keyboard.unknown",
+          "type": "KEYSYM",
+          "value": -1
+        },
+        "messages": [
+          "/gamemode creative"
+        ]
+      },
+      {
+        "conflictStrategy": "ZERO",
+        "sendStrategy": "ZERO",
+        "key": {
+          "name": "key.keyboard.keypad.enter",
+          "type": "KEYSYM",
+          "value": 335
+        },
+        "limitKey": {
+          "name": "key.keyboard.unknown",
+          "type": "KEYSYM",
+          "value": -1
+        },
+        "messages": [
+          "/gamemode survival"
+        ]
+      },
+      {
+        "conflictStrategy": "ZERO",
+        "sendStrategy": "ZERO",
+        "key": {
+          "name": "key.keyboard.keypad.subtract",
+          "type": "KEYSYM",
+          "value": 333
+        },
+        "limitKey": {
+          "name": "key.keyboard.unknown",
+          "type": "KEYSYM",
+          "value": -1
+        },
+        "messages": [
+          "/gamemode spectator"
+        ]
+      },
+      {
+        "conflictStrategy": "ZERO",
+        "sendStrategy": "ZERO",
+        "key": {
+          "name": "key.keyboard.keypad.multiply",
+          "type": "KEYSYM",
+          "value": 332
+        },
+        "limitKey": {
+          "name": "key.keyboard.unknown",
+          "type": "KEYSYM",
+          "value": -1
+        },
+        "messages": [
+          "afk"
+        ]
+      }
+    ]
+  },
+  "profiles": []
+}
